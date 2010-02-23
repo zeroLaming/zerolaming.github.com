@@ -1,0 +1,39 @@
+html,body {
+	font-family: 'Helvetica', Arial, sans-serif; 
+	font-size: 13px;
+	background-color: #333;
+}
+
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+span.pinkHighlight {
+	background-color: #FF0088;
+}
+
+p.empty {
+	font-size: 60px;
+	background-color: #CCC;
+}
+
+p.other {
+	font-size: 40px;
+}
+
+span.fade {
+	color: #666;
+}
+
+span.site-mike {
+	background-color: green;
+}
+
+span.site-twitter {
+	background-color: blue;
+}
